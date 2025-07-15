@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: agent-api-server    # Set this to your app service name
+  AZURE_WEBAPP_NAME: agent-api-server-1752600686    # Set this to your app service name
   AZURE_WEBAPP_PACKAGE_PATH: '.'         # Set this to the path to your web app project
   NODE_VERSION: '18.x'                   # Set this to the node version to use
 
